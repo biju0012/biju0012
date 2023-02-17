@@ -1,0 +1,31 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 18px;
+  }
+  h1,h2,footer{
+    background-color:aqua;
+  }
+.site-title{
+    background-color: rgb(82, 143, 143);
+}
+#my-image{
+    box-shadow: 0px 0px 2px 1px black;
+}
+li:nth-child(odd){
+    background: cadetblue;
+}
+ol{
+    list-style-type: square;
+}
+a:link{
+    text-decoration: none;
+
+}
+a:link{
+    background-color: chartreuse;
+    border: 1px black;
+}
+
+a:link:hover {
+    background-color: blueviolet;
+}
