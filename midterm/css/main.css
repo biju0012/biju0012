@@ -1,0 +1,43 @@
+
+.body{
+    background-color: rgb(23, 179, 179);
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+   
+
+    
+}
+
+
+
+.wrapper{
+    
+    background-color: aquamarine;
+}
+.nav ul li{
+    display: inline-block;
+    color: black;
+    width: 45%;
+    
+
+}
+
+h1{
+text-align: center;
+}
+h2{
+    left: auto;
+    right: auto;
+    padding-top: 100px;
+}
+#fullname,#youremail{
+    width: 1000px;
+
+}
+#message{
+    height: 50px;
+    width: 700px;
+}
+
+
